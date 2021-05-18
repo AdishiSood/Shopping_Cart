@@ -1,4 +1,4 @@
-Wanna have a glance of this amazing project click [here](https://fashionapparel.herokuapp.com/) 😃
+Wanna have a glance of this amazing project?? Click [here](https://fashionapparel.herokuapp.com/) 😃
 ### Features
 * Sorting and searching on products
 * Category wise rendaring
